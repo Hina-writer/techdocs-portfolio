@@ -9,16 +9,16 @@ This space showcases a selection of documentation samples I’ve created or am f
 
 ## 📃Included Documentation Samples
 
-- [Style Guide](docs/style-guide.md) 
+- [Style Guide](style-guide.md) 
   Defines standards for consistent, accessible, and user-centered documentation. Inspired from industry standards like Microsoft, Chicago Manual of Style, and more.
 
-- [User Guide](docs/scene-editor.md) 
+- [User Guide](scene-editor.md) 
   A setup guide designed to help users get started with a game scene editor. Illustrates with steps and visual aid on how to work around the user interface.
 
-- [API Reference](docs/api-reference.md)
+- [API Reference](api-reference.md)
   A simple Weather API doc showcasing clear endpoint descriptions and example responses. Designed to highlight a sample of how to create an API documentation and structuring it.
 
-- [Editorial Samples – BAMBI Magazine](docs/bambi-magazine.md)  
+- [Editorial Samples – BAMBI Magazine](bambi-magazine.md)  
    Visual snapshots from my editorial work, showcasing layout and storytelling.
 ---
 

@@ -1,22 +1,31 @@
-# TechDocs Portfolio
+# Technical Documentation Portfolio
 
-This portfolio highlights my practical work with Docs-as-Code workflows in GitLab. It reflects how I plan, structure, and deliver clear documentation for complex and regulated products.
+This portfolio showcases my practical experience with Docs-as-Code workflows, structured authoring, and editorial storytelling. It reflects how I plan, write, and deliver clear, scalable documentation for technical and regulated products.
 
-## Included Documentation Samples
+Built with [MkDocs](https://www.mkdocs.org/) and the Material theme, the site demonstrates how raw Markdown, version control, and lightweight tooling can produce professional, review-friendly documentation without a complex publishing pipeline.
 
-- **StyleGuide.md** – Editorial standards for consistent, user-focused documentation
-- **GettingStarted.md** – A setup guide based on a game scene editor.
-- **API-Reference.md** – A sample API doc to demonstrate technical adaptability and interface documentation.
+## 📁 Included Samples
 
-All files are written in raw Markdown and organized in the `docs/` folder. GitLab’s native rendering allows for lightweight, reviewable documentation without a publishing pipeline.
+- **Style Guide** (`style-guide.md`)  
+  Editorial standards for consistent, accessible, and user-centered documentation.
 
-## Purpose
+- **Scene Editor Guide** (`scene-editor.md`)  
+  A visual, step-by-step guide to help users navigate a game scene editor interface.
 
-Created independently to showcase:
+- **API Reference** (`api-reference.md`)  
+  A sample Weather API doc showcasing clear endpoint descriptions and example responses.
+
+- **BAMBI Magazine** (`bambi.md`)  
+  Editorial layout samples from a print magazine, highlighting visual storytelling and design.
+
+All content is written in Markdown and organized in the `docs/` folder. Assets are stored in `docs/assets/images/`.
+
+## 🎯 Purpose
+
+Created independently to demonstrate:
 - Structured, scalable authoring practices
-- Proficiency with GitLab and Docs-as-Code workflows
-- A thoughtful approach to documentation planning and delivery
+- Proficiency with Git, Markdown, and Docs-as-Code workflows
+- A thoughtful, user-focused approach to documentation planning and delivery
+- The ability to blend technical clarity with editorial polish
 
-Designed to be concise, review-friendly, and ready to discuss in interviews.
-
-
+This portfolio is designed to be concise, navigable, and ready to discuss in interviews or collaborative reviews.
