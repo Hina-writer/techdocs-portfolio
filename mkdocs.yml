@@ -1,0 +1,38 @@
+site_name: Technical Documentation Portfolio
+site_description: A showcase of technical writing and editorial samples by Hina Anas
+site_author: Hina Anas
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: pink
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Technical Documentation:
+      - API Reference: api-reference.md
+      - Scene Editor Guide: scene-editor.md
+      - Style Guide: style-guide.md
+  - Editorial Samples:
+      - BAMBI Magazine: bambi.md
+
+markdown_extensions:
+  - admonition          # Callout boxes like Note, Warning, etc.
+  - codehilite          # Syntax highlighting for code blocks
+  - toc:                # Table of contents with permalinks
+      permalink: true
+  - footnotes           # Markdown footnotes
+  - tables              # Enhanced table formatting
+  - attr_list           # Add custom attributes to Markdown elements
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hinaanas
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hinaanas
